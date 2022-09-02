@@ -10,7 +10,7 @@ Our job will be to build a predictive model capable of predicting the strength o
 
 <div align="center">
 <p float="left">
-    <img src="/images/analytics.jpg" width="1000" height="500"/>
+    <img src="/images/concreto.jpg" width="1000" height="500"/>
 </p>
 </div>
 
