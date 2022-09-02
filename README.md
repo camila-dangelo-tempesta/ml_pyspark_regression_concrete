@@ -51,7 +51,7 @@ With the trained model we will make predictions using new data.
 
 <div align="center">
 <p float="left">
-    <img src="/images/modelS.png" width="350" height="200"/>
+    <img src="/images/models.png" width="350" height="200"/>
 </p>
 </div>
 ***
