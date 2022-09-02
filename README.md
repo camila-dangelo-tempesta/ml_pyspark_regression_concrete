@@ -39,6 +39,22 @@ Hyperparameter optimization techniques will be explored to arrive at the best po
 With the trained model we will make predictions using new data.
 
 ***
+## 3. SOLUTION PLANNING
+
+- [x] **STEP 01:** **Data Cleaning with Spark and AutoML**
+
+- [x] **STEP 02:** **Pre-processing with Spark and Auto ML**
+    * Standardization
+
+- [x] **STEP 03:** **Machine Learning with MLlib and AutoML**
+
+
+<div align="center">
+<p float="left">
+    <img src="/images/modelS.png" width="350" height="200"/>
+</p>
+</div>
+***
 Made By **Camila D'Angelo**
 
 - 🔭 I’m currently working on [DS Comuity](https://www.comunidadedatascience.com/) and [Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados)
